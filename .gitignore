@@ -1,0 +1,36 @@
+# Ignore compiled Java class files
+*.class
+
+# Build directories
+bin/
+build/
+out/
+target/
+dist/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
+
+# Temporary files
+hs_err_pid*
